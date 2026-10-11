@@ -1,8 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B14,45:111827,100:00D6B9&height=190&section=header&text=ATHTHARIQ%20LISAN&fontSize=42&fontColor=F3F7FA&fontAlignY=38&desc=AGENTIC%20ENGINEERING%20%2F%2F%20HIGH-THROUGHPUT%20DELIVERY&descAlignY=62&descSize=14&animation=fadeIn" alt="Aththariq Lisan, agentic engineering and high-throughput delivery" />
+<img src="assets/profile-banner.jpg" alt="Abstract cybernetic network artwork in dark graphite and cyan" width="100%" />
 
-### AI & Software Engineer · Software Engineer Intern at Grab · ITB IS & IT
+<br />
+
+<img src="https://avatars.githubusercontent.com/u/130519479?v=4" width="112" alt="Aththariq's GitHub profile photo" />
+
+### Aththariq Lisan
+
+**AI & Software Engineer · Software Engineer Intern at Grab · ITB IS & IT**
 
 I build **agentic systems and production software**, using AI agents to move from problem framing to implementation, iteration, and delivery at high volume. My work spans backend systems, applied AI, and products that turn complex decisions into clear actions.
 
