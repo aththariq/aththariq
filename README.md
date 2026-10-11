@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-banner.jpg" alt="Abstract cybernetic network artwork in dark graphite and cyan" width="100%" />
+<img src="assets/cargovision-banner.webp" alt="CargoVision port operations banner featuring container stacks and orange gantry cranes" width="100%" />
 
 <br />
 
