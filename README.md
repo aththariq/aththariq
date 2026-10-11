@@ -113,24 +113,27 @@ More projects: [Stockpik](https://stockpik.site) · [Envira.world](https://envir
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-## Recognition
-
-- Gold Medal, Global Start-up Competition 2025
-- Top 3, Pertamuda Seed & Scale 2025
-- Top 10, Google APAC Solution Challenge 2025
-- 3rd Place, PPATK Hackathon
-- 2nd Runner-Up, Microsoft ElevAIte Hackathon
-- TELADAN Leadership Scholarship, Tanoto Foundation
-- OceanX Young Explorer VII
-
-## GitHub activity
+## Selected recognition
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aththariq&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00D6B9&icon_color=00D6B9&text_color=c9d1d9&rank_icon=github" alt="Atthariq's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aththariq&layout=compact&hide_border=true&bg_color=0d1117&title_color=00D6B9&text_color=c9d1d9" alt="Most-used languages in public repositories" />
+<a href="https://cargovision.app/milestones">
+  <img src="https://cargovision.app/_next/image?q=75&url=%2Fsection5%2Fpertamuda.webp&w=3840" width="620" alt="Cargovision team receiving its Top 3 Pertamuda Seed & Scale 2025 award" />
+</a>
+
+<sub>Cargovision recognized at Pertamuda Seed & Scale 2025. <a href="https://cargovision.app/milestones">More milestones</a></sub>
 
 </div>
+
+| Recognition | Work |
+| --- | --- |
+| **Gold Medal**, Global Start-up Competition 2025 | Cargovision |
+| **Top 3**, Pertamuda Seed & Scale 2025 | Cargovision |
+| **Top 10**, Google APAC Solution Challenge 2025 | Simutrade |
+| **3rd Place**, PPATK Hackathon | Cakradana |
+| **2nd Runner-Up**, Microsoft ElevAIte Hackathon | Fundusnap |
+| **TELADAN Leadership Scholarship**, Tanoto Foundation | Leadership and education |
+| **OceanX Young Explorer VII** | Marine sustainability research |
 
 <div align="center">
 
