@@ -1,156 +1,139 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:111827,100:00F5D4&height=210&section=header&text=ATTAR.exe&fontSize=66&fontColor=E6FCFF&fontAlignY=38&desc=HUMAN%20HARDWARE%20%20%7C%20%20CYBERNETIC%20MIND%20%20%7C%20%20SOFTWARE%20IN%20MOTION&descAlignY=62&descSize=13" alt="ATTAR.exe: human hardware, cybernetic mind, software in motion" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B14,45:111827,100:00D6B9&height=190&section=header&text=ATTHARIQ%20LISAN&fontSize=42&fontColor=F3F7FA&fontAlignY=38&desc=ENGINEERING%20INTELLIGENT%20SYSTEMS&descAlignY=62&descSize=14&animation=fadeIn" alt="Atthariq Lisan, engineering intelligent systems" />
 
-### `SYS.BOOT()` → Welcome to my corner of the network
+### AI & Software Engineer · L3 Engineer at Grab · ITB IS & IT
 
-**Attar Lisan Qur'an · AI & Software Engineer · Information Systems & Technology student at ITB**
+I build **agentic systems and production software**: from backend services and AI workflows to products that turn complex decisions into clear actions. I move across engineering, product, and real-world execution to get systems shipped and used.
 
-> Part human. Part machine? Just a human with a suspicious number of tabs open, a terminal within reach, and an ongoing mission to make software do something useful.
-
-I build practical systems from complex ideas. My work sits at the intersection of applied AI, full-stack systems, and product engineering, with a focus on decision-centered interfaces and reliable architecture.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github)](https://github.com/aththariq)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aththariqlisan)
 [![Portfolio](https://img.shields.io/badge/Portfolio-aththariq.me-00BFA6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aththariq.me)
-[![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:attar@aththariq.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aththariqlisan)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github)](https://github.com/aththariq)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:attar@aththariq.me)
 
 </div>
 
-```console
-┌─[ ATTAR.OS // IDENTITY ]──────────────────────────────────────────┐
-│ operator   : Attar Lisan Qur'an                                   │
-│ base       : Bandung, Indonesia                                    │
-│ affiliation: Information Systems & Technology · Institut Teknologi Bandung │
-│ status     : ONLINE                                                │
-└───────────────────────────────────────────────────────────────────┘
+<div align="center">
 
-attar@neuralink:~$ scan --active-systems
-[ OK ] Applied AI            [ OK ] Full-stack systems
-[ OK ] Product engineering   [RUN ] Always learning
-```
+`AGENTIC SYSTEMS` &nbsp; `BACKEND ENGINEERING` &nbsp; `APPLIED AI` &nbsp; `PRODUCT BUILDS`
 
-## `01 / SYSTEM CAPABILITIES`
+</div>
 
-| Area | What that looks like |
+## About
+
+- **Current:** L3 Software Engineer at Grab
+- **Education:** B.Eng. in Information Systems and Technology, Institut Teknologi Bandung
+- **Engineering:** Backend systems, APIs, microservices, full-stack products, and agentic workflows
+- **AI:** Applied AI, computer vision, machine learning pipelines, and production-oriented integrations
+- **Builder:** Founder of Cargovision, an AI cargo and container inspection startup
+- **Field work:** OceanX Young Explorer VII, applying data analysis and AI to marine sustainability research
+
+I care about the complete path from a messy problem to a dependable product: understanding users, making sound technical decisions, building the system, and improving it from real feedback.
+
+## Selected work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://cargovision.app">Cargovision</a></h3>
+      <p>AI-powered cargo and container inspection for logistics and port operations. I co-founded the startup and built across computer vision, X-ray analysis, full-stack product, and AI reporting.</p>
+      <p><strong>Recognition:</strong> Gold Medal, Global Start-up Competition 2025 · Top 3, Pertamuda Seed & Scale 2025</p>
+      <sub>Computer Vision · AI · Logistics · Product Systems</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://simutrade.app">Simutrade</a></h3>
+      <p>An AI-powered export strategy simulator that helps UMKM, students, and early exporters explore markets, routes, and trade strategies.</p>
+      <p><strong>Impact:</strong> 200+ users · Top 10, Google APAC Solution Challenge 2025</p>
+      <sub>Next.js · TypeScript · Node.js · PostgreSQL · Applied AI</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://aththariq.me">Fitbox</a></h3>
+      <p>Native iOS object measurement for moving and packing, exploring LiDAR, Core ML, and camera-based sensing.</p>
+      <sub>Swift · iOS · Computer Vision · Spatial Sensing</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://cakradana.org">Cakradana</a></h3>
+      <p>Civic technology for campaign-finance transparency, AML signals, donation monitoring, and network visualization.</p>
+      <p><strong>Recognition:</strong> 3rd Place, PPATK Hackathon</p>
+      <sub>Python · AML · Data Visualization · Civic Tech</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Fundusnap</h3>
+      <p>Computer-vision screening for diabetic retinopathy using retinal images, built to support more accessible early screening.</p>
+      <p><strong>Recognition:</strong> 2nd Runner-Up, Microsoft ElevAIte Hackathon</p>
+      <sub>Computer Vision · Healthcare AI</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://bloomee.earth">Bloomee</a></h3>
+      <p>A NASA Space Apps project turning satellite and environmental data into visual stories about Earth's bloom events.</p>
+      <sub>NASA Data · Climate · Data Visualization</sub>
+    </td>
+  </tr>
+</table>
+
+More projects: [Stockpik](https://stockpik.site) · [Envira.world](https://envira.world) · [Dextektif](https://dextektif.com) · [Smarteg](https://smarteg.app) · [StartUs](https://startus.id) · [all projects](https://aththariq.me)
+
+## Experience
+
+| Role | Focus |
 | --- | --- |
-| **Applied AI** | Intelligent features shaped into useful, decision-centered products. |
-| **Full-stack systems** | Applications and APIs designed to make complex workflows clear and reliable. |
-| **Product engineering** | Architecture and interface decisions that help software work in real-world settings. |
+| **L3 Software Engineer, Grab** | Frontend, backend services, API development, and testing across production engineering workflows |
+| **Founder and Full-Stack Developer, Cargovision** | Product direction, computer vision, inspection workflows, dashboards, and automated reporting |
+| **AI Engineer Intern, Telkomsel** | Machine-learning workflows and predictive analytics for telecommunications data |
+| **Teaching Assistant, LABSI** | Mentored 150+ students in enterprise architecture, business-process analysis, and IT governance |
+| **Shipboard Researcher, OceanX Young Explorer VII** | Data analysis and AI for marine sustainability research |
 
-Current firmware update: deepening my skills in full-stack development, cloud computing, and applied AI. I’m open to teaming up on ambitious projects with a real problem at the center.
-
-## `02 / FIELD EXPERIENCE`
-
-- **Software Engineer Intern, Grab Indonesia** · February to July 2025
-- **Founder & CEO, Cargovision** · AI cargo and container inspection
-- **Software Engineer Intern, Telkomsel**
-- **Teaching Assistant, LABSI**
-
-## `03 / MISSIONS // SELECTED BUILDS`
-
-Selected projects and descriptions are synced with [my portfolio](https://aththariq.me).
-
-### [Cargovision](https://cargovision.app) · AI cargo inspection
-
-An AI cargo and container inspection platform. The portfolio lists it as shipped from May 2025 to May 2026.
-
-`AI` `Logistics` · [Open Cargovision](https://cargovision.app)
-
-### [Fitbox](https://aththariq.me) · Computer vision for iOS
-
-An ongoing iOS object-measurement project for moving and packing, listed on my portfolio as starting in February 2026.
-
-`Computer Vision` `iOS` · [View the portfolio](https://aththariq.me)
-
-### [Stockpik](https://stockpik.site) · AI finance
-
-An AI-powered dashboard for real-time stock insights, listed as a December 2025 prototype.
-
-`AI` `Finance` · [Open Stockpik](https://stockpik.site)
-
-### [Cakradana](https://cakradana.org) · Civic tech
-
-An election-financing transparency and anti-money-laundering monitoring project, listed as an awarded project from October to November 2025.
-
-`AML` `Civic Tech` · [Open Cakradana](https://cakradana.org)
-
-### [Envira.world](https://envira.world) · Sustainability
-
-An AI-powered sustainability donation platform, listed as a prototype from October to November 2025.
-
-`AI` `Sustainability` · [Open Envira](https://envira.world)
-
-### [Bloomee](https://bloomee.earth) · Climate data
-
-An earth-bloom event visualization project, listed as a prototype from September to October 2025.
-
-`Climate` `Data visualization` · [Open Bloomee](https://bloomee.earth)
-
-> **More missions in the archive:** explore [all projects on my portfolio](https://aththariq.me) or [all public repositories](https://github.com/aththariq?tab=repositories).
-
-## `04 / HARDWARE & SOFTWARE // LOADOUT`
+## Engineering toolkit
 
 **Languages**<br />
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=111827)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 
-**Web & application development**<br />
+**Backend and systems**<br />
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**AI and product**<br />
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-6E56CF?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF9A00?style=flat-square)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Express](https://img.shields.io/badge/Express-111111?style=flat-square&logo=express&logoColor=white)
-
-**AI, data & infrastructure**<br />
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-<details>
-<summary><strong>Expand auxiliary modules</strong></summary>
-<br />
+## Recognition
 
-Appwrite · Arduino · Blender · Chart.js · Dart · Figma · Firebase · Git · Heroku · Kotlin · MySQL · Nginx · Pandas · Photoshop · Postman · React Native · Redux · Seaborn · Adobe Illustrator · Adobe XD
+- Gold Medal, Global Start-up Competition 2025
+- Top 3, Pertamuda Seed & Scale 2025
+- Top 10, Google APAC Solution Challenge 2025
+- 3rd Place, PPATK Hackathon
+- 2nd Runner-Up, Microsoft ElevAIte Hackathon
+- TELADAN Leadership Scholarship, Tanoto Foundation
+- OceanX Young Explorer VII
 
-</details>
-
-## `05 / LIVE TELEMETRY // GITHUB`
+## GitHub activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aththariq&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9&rank_icon=github" alt="Attar's GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aththariq&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" alt="Most-used languages in Attar's public repositories" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=aththariq&hide_border=true&background=0d1117&ring=22d3ee&fire=f97316&currStreakLabel=22d3ee&sideLabels=c9d1d9&dates=8b949e" alt="Attar's GitHub contribution streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aththariq&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00D6B9&icon_color=00D6B9&text_color=c9d1d9&rank_icon=github" alt="Atthariq's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aththariq&layout=compact&hide_border=true&bg_color=0d1117&title_color=00D6B9&text_color=c9d1d9" alt="Most-used languages in public repositories" />
 
 </div>
 
-## `06 / OFFLINE MODE // HUMAN CONNECTIONS`
-
-Even a cyborg needs a life beyond the terminal. I write about what I’m learning and work on **[ThatTechBro](https://instagram.com/thattechbro)**.
-
-- ✍️ [Read my writing on Medium](https://medium.com/@aththariq.lisan)
-- 💼 [Connect on LinkedIn](https://linkedin.com/in/aththariqlisan)
-- 🌐 [Portfolio](https://aththariq.me)
-- 📬 [Email me](mailto:attar@aththariq.me)
-
 <div align="center">
 
-<sub>Human curiosity. Machine precision. Still running on coffee and questions.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,55:111827,100:050816&height=100&section=footer" alt="" />
+<sub>Designing systems with agency. Shipping software with intent.</sub>
 
 </div>
