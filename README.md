@@ -1,18 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:111827,100:00F5D4&height=210&section=header&text=ATTAR.exe&fontSize=66&fontColor=E6FCFF&fontAlignY=38&desc=HUMAN%20HARDWARE%20%20%7C%20%20CYBERNETIC%20MIND%20%20%7C%20%20SOFTWARE%20IN%20MOTION&descAlignY=62&descSize=13" alt="ATTAR.exe — human hardware, cybernetic mind, software in motion" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:111827,100:00F5D4&height=210&section=header&text=ATTAR.exe&fontSize=66&fontColor=E6FCFF&fontAlignY=38&desc=HUMAN%20HARDWARE%20%20%7C%20%20CYBERNETIC%20MIND%20%20%7C%20%20SOFTWARE%20IN%20MOTION&descAlignY=62&descSize=13" alt="ATTAR.exe: human hardware, cybernetic mind, software in motion" />
 
 ### `SYS.BOOT()` → Welcome to my corner of the network
 
-**Attar Lisan Qur'an · Software developer · Informatics student at ITB**
+**Attar Lisan Qur'an · AI & Software Engineer · Information Systems & Technology student at ITB**
 
 > Part human. Part machine? Just a human with a suspicious number of tabs open, a terminal within reach, and an ongoing mission to make software do something useful.
 
-I build across the stack: web interfaces, APIs, AI experiments, and the systems that connect them. My favorite upgrade is learning how something works under the hood, then turning that knowledge into a working prototype.
+I build practical systems from complex ideas. My work sits at the intersection of applied AI, full-stack systems, and product engineering, with a focus on decision-centered interfaces and reliable architecture.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github)](https://github.com/aththariq)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aththariqlisan)
-[![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aththariq.lisan@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aththariq.me-00BFA6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aththariq.me)
+[![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:attar@aththariq.me)
 
 </div>
 
@@ -20,56 +21,75 @@ I build across the stack: web interfaces, APIs, AI experiments, and the systems 
 ┌─[ ATTAR.OS // IDENTITY ]──────────────────────────────────────────┐
 │ operator   : Attar Lisan Qur'an                                   │
 │ base       : Bandung, Indonesia                                    │
-│ affiliation: Informatics · Institut Teknologi Bandung              │
+│ affiliation: Information Systems & Technology · Institut Teknologi Bandung │
 │ status     : ONLINE                                                │
 └───────────────────────────────────────────────────────────────────┘
 
 attar@neuralink:~$ scan --active-systems
-[ OK ] Web engineering       [ OK ] Applied AI
-[ OK ] Cloud & data          [RUN ] Always learning
+[ OK ] Applied AI            [ OK ] Full-stack systems
+[ OK ] Product engineering   [RUN ] Always learning
 ```
 
 ## `01 / SYSTEM CAPABILITIES`
 
 | Area | What that looks like |
 | --- | --- |
-| **Web systems** | Full-stack applications, APIs, and interfaces engineered to make complex workflows feel simple. |
-| **Machine intelligence** | AI and data experiments aimed at practical, human-useful applications. |
-| **Cloud & infrastructure** | The integrations and engineering that keep a product running from request to response. |
+| **Applied AI** | Intelligent features shaped into useful, decision-centered products. |
+| **Full-stack systems** | Applications and APIs designed to make complex workflows clear and reliable. |
+| **Product engineering** | Architecture and interface decisions that help software work in real-world settings. |
 
 Current firmware update: deepening my skills in full-stack development, cloud computing, and applied AI. I’m open to teaming up on ambitious projects with a real problem at the center.
 
-## `02 / MISSIONS // SELECTED BUILDS`
+## `02 / FIELD EXPERIENCE`
 
-These picks come from my public repositories; open a project to explore its source.
+- **Software Engineer Intern, Grab Indonesia** · February to July 2025
+- **Founder & CEO, Cargovision** · AI cargo and container inspection
+- **Software Engineer Intern, Telkomsel**
+- **Teaching Assistant, LABSI**
 
-### [CargoVision](https://github.com/aththariq/cargovision-test) · Vision system
+## `03 / MISSIONS // SELECTED BUILDS`
 
-An ongoing project in the computer-vision space, with a deployed frontend ready for reconnaissance.
+Selected projects and descriptions are synced with [my portfolio](https://aththariq.me).
 
-`TypeScript` `Computer Vision` · [Live demo](https://cargovision-test.vercel.app)
+### [Cargovision](https://cargovision.app) · AI cargo inspection
 
-### [KDS](https://github.com/aththariq/kds-fe) · Full-stack system
+An AI cargo and container inspection platform. The portfolio lists it as shipped from May 2025 to May 2026.
 
-A web application built across separate frontend and backend repositories.
+`AI` `Logistics` · [Open Cargovision](https://cargovision.app)
 
-`TypeScript` · [Frontend](https://github.com/aththariq/kds-fe) · [Backend](https://github.com/aththariq/kds-be) · [Live demo](https://kds-fe.vercel.app)
+### [Fitbox](https://aththariq.me) · Computer vision for iOS
 
-### [Magic Cube Replay](https://github.com/aththariq/magic-cube-replay-frontend) · Interactive simulation
+An ongoing iOS object-measurement project for moving and packing, listed on my portfolio as starting in February 2026.
 
-A paired frontend and backend project exploring interactive replay experiences.
+`Computer Vision` `iOS` · [View the portfolio](https://aththariq.me)
 
-`TypeScript` · [Frontend](https://github.com/aththariq/magic-cube-replay-frontend) · [Backend](https://github.com/aththariq/magic-cube-replay-backend)
+### [Stockpik](https://stockpik.site) · AI finance
 
-### [Startus](https://github.com/aththariq/startus-fe) · Web interface
+An AI-powered dashboard for real-time stock insights, listed as a December 2025 prototype.
 
-A TypeScript frontend project with a deployed preview.
+`AI` `Finance` · [Open Stockpik](https://stockpik.site)
 
-`TypeScript` · [Source](https://github.com/aththariq/startus-fe) · [Live demo](https://startus-fe-jcsi.vercel.app)
+### [Cakradana](https://cakradana.org) · Civic tech
 
-> **More missions in the archive:** browse [all public repositories](https://github.com/aththariq?tab=repositories).
+An election-financing transparency and anti-money-laundering monitoring project, listed as an awarded project from October to November 2025.
 
-## `03 / HARDWARE & SOFTWARE // LOADOUT`
+`AML` `Civic Tech` · [Open Cakradana](https://cakradana.org)
+
+### [Envira.world](https://envira.world) · Sustainability
+
+An AI-powered sustainability donation platform, listed as a prototype from October to November 2025.
+
+`AI` `Sustainability` · [Open Envira](https://envira.world)
+
+### [Bloomee](https://bloomee.earth) · Climate data
+
+An earth-bloom event visualization project, listed as a prototype from September to October 2025.
+
+`Climate` `Data visualization` · [Open Bloomee](https://bloomee.earth)
+
+> **More missions in the archive:** explore [all projects on my portfolio](https://aththariq.me) or [all public repositories](https://github.com/aththariq?tab=repositories).
+
+## `04 / HARDWARE & SOFTWARE // LOADOUT`
 
 **Languages**<br />
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
@@ -105,7 +125,7 @@ Appwrite · Arduino · Blender · Chart.js · Dart · Figma · Firebase · Git �
 
 </details>
 
-## `04 / LIVE TELEMETRY // GITHUB`
+## `05 / LIVE TELEMETRY // GITHUB`
 
 <div align="center">
 
@@ -118,13 +138,14 @@ Appwrite · Arduino · Blender · Chart.js · Dart · Figma · Firebase · Git �
 
 </div>
 
-## `05 / OFFLINE MODE // HUMAN CONNECTIONS`
+## `06 / OFFLINE MODE // HUMAN CONNECTIONS`
 
 Even a cyborg needs a life beyond the terminal. I write about what I’m learning and work on **[ThatTechBro](https://instagram.com/thattechbro)**.
 
 - ✍️ [Read my writing on Medium](https://medium.com/@aththariq.lisan)
 - 💼 [Connect on LinkedIn](https://linkedin.com/in/aththariqlisan)
-- 📬 [Email me](mailto:aththariq.lisan@gmail.com)
+- 🌐 [Portfolio](https://aththariq.me)
+- 📬 [Email me](mailto:attar@aththariq.me)
 
 <div align="center">
 
