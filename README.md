@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B14,45:111827,100:00D6B9&height=190&section=header&text=ATTHARIQ%20LISAN&fontSize=42&fontColor=F3F7FA&fontAlignY=38&desc=ENGINEERING%20INTELLIGENT%20SYSTEMS&descAlignY=62&descSize=14&animation=fadeIn" alt="Atthariq Lisan, engineering intelligent systems" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B14,45:111827,100:00D6B9&height=190&section=header&text=ATHTHARIQ%20LISAN&fontSize=42&fontColor=F3F7FA&fontAlignY=38&desc=AGENTIC%20ENGINEERING%20%2F%2F%20HIGH-THROUGHPUT%20DELIVERY&descAlignY=62&descSize=14&animation=fadeIn" alt="Aththariq Lisan, agentic engineering and high-throughput delivery" />
 
-### AI & Software Engineer · L3 Engineer at Grab · ITB IS & IT
+### AI & Software Engineer · Software Engineer Intern at Grab · ITB IS & IT
 
-I build **agentic systems and production software**: from backend services and AI workflows to products that turn complex decisions into clear actions. I move across engineering, product, and real-world execution to get systems shipped and used.
+I build **agentic systems and production software**, using AI agents to move from problem framing to implementation, iteration, and delivery at high volume. My work spans backend systems, applied AI, and products that turn complex decisions into clear actions.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-aththariq.me-00BFA6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aththariq.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aththariqlisan)
@@ -21,7 +21,7 @@ I build **agentic systems and production software**: from backend services and A
 
 ## About
 
-- **Current:** L3 Software Engineer at Grab
+- **Current:** Software Engineer Intern at Grab
 - **Education:** B.Eng. in Information Systems and Technology, Institut Teknologi Bandung
 - **Engineering:** Backend systems, APIs, microservices, full-stack products, and agentic workflows
 - **AI:** Applied AI, computer vision, machine learning pipelines, and production-oriented integrations
@@ -81,7 +81,7 @@ More projects: [Stockpik](https://stockpik.site) · [Envira.world](https://envir
 
 | Role | Focus |
 | --- | --- |
-| **L3 Software Engineer, Grab** | Frontend, backend services, API development, and testing across production engineering workflows |
+| **Software Engineer Intern, Grab** | Frontend, backend services, API development, and testing across production engineering workflows |
 | **Founder and Full-Stack Developer, Cargovision** | Product direction, computer vision, inspection workflows, dashboards, and automated reporting |
 | **AI Engineer Intern, Telkomsel** | Machine-learning workflows and predictive analytics for telecommunications data |
 | **Teaching Assistant, LABSI** | Mentored 150+ students in enterprise architecture, business-process analysis, and IT governance |
