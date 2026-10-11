@@ -2,10 +2,6 @@
 
 <img src="assets/cargovision-banner.png" alt="CargoVision brand banner with product interface and startup awards" width="100%" />
 
-<br />
-
-<img src="https://avatars.githubusercontent.com/u/130519479?v=4" width="112" alt="Aththariq's GitHub profile photo" />
-
 ### Aththariq Lisan
 
 **AI & Software Engineer · Software Engineer Intern at Grab · ITB IS & IT**
