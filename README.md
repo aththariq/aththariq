@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:172554,100:06b6d4&height=190&section=header&text=ATTAR&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Building%20at%20the%20intersection%20of%20web%2C%20AI%20%26%20the%20real%20world&descAlignY=62&descSize=15" alt="Attar — Web, AI, and real-world systems" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:111827,100:00F5D4&height=210&section=header&text=ATTAR.exe&fontSize=66&fontColor=E6FCFF&fontAlignY=38&desc=HUMAN%20HARDWARE%20%20%7C%20%20CYBERNETIC%20MIND%20%20%7C%20%20SOFTWARE%20IN%20MOTION&descAlignY=62&descSize=13" alt="ATTAR.exe — human hardware, cybernetic mind, software in motion" />
 
-### `> Hello, world!` I'm Attar 👋
+### `SYS.BOOT()` → Welcome to my corner of the network
 
-**Software developer · AI enthusiast · Informatics student at ITB**
+**Attar Lisan Qur'an · Software developer · Informatics student at ITB**
 
-I turn ideas into working software—from thoughtful web experiences to data-driven and AI-powered systems. I like understanding the whole stack, asking how things work under the hood, and shipping tools that solve a real problem.
+> Part human. Part machine? Just a human with a suspicious number of tabs open, a terminal within reach, and an ongoing mission to make software do something useful.
+
+I build across the stack: web interfaces, APIs, AI experiments, and the systems that connect them. My favorite upgrade is learning how something works under the hood, then turning that knowledge into a working prototype.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github)](https://github.com/aththariq)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aththariqlisan)
@@ -14,55 +16,60 @@ I turn ideas into working software—from thoughtful web experiences to data-dri
 
 </div>
 
-```text
-attar@github:~$ whoami
-Informatics student at Institut Teknologi Bandung, based in Bandung, Indonesia.
+```console
+┌─[ ATTAR.OS // IDENTITY ]──────────────────────────────────────────┐
+│ operator   : Attar Lisan Qur'an                                   │
+│ base       : Bandung, Indonesia                                    │
+│ affiliation: Informatics · Institut Teknologi Bandung              │
+│ status     : ONLINE                                                │
+└───────────────────────────────────────────────────────────────────┘
 
-attar@github:~$ focus --now
-Web engineering | Applied AI | Cloud and data | Building useful products
+attar@neuralink:~$ scan --active-systems
+[ OK ] Web engineering       [ OK ] Applied AI
+[ OK ] Cloud & data          [RUN ] Always learning
 ```
 
-## `01 / What I build`
+## `01 / SYSTEM CAPABILITIES`
 
 | Area | What that looks like |
 | --- | --- |
-| **Web products** | Full-stack applications, APIs, and clean interfaces that make complex workflows easier. |
-| **AI & data** | Experiments and applications that turn data and machine learning into practical tools. |
-| **Systems & cloud** | The infrastructure, integrations, and engineering details that help products work end to end. |
+| **Web systems** | Full-stack applications, APIs, and interfaces engineered to make complex workflows feel simple. |
+| **Machine intelligence** | AI and data experiments aimed at practical, human-useful applications. |
+| **Cloud & infrastructure** | The integrations and engineering that keep a product running from request to response. |
 
-I’m currently deepening my skills in full-stack development, cloud computing, and applied AI. I enjoy collaborating with people who care about solving the problem as much as choosing the technology.
+Current firmware update: deepening my skills in full-stack development, cloud computing, and applied AI. I’m open to teaming up on ambitious projects with a real problem at the center.
 
-## `02 / Selected builds`
+## `02 / MISSIONS // SELECTED BUILDS`
 
 These picks come from my public repositories; open a project to explore its source.
 
-### [CargoVision](https://github.com/aththariq/cargovision-test) · Computer vision
+### [CargoVision](https://github.com/aththariq/cargovision-test) · Vision system
 
-An ongoing project in the computer-vision space, with a deployed frontend to explore.
+An ongoing project in the computer-vision space, with a deployed frontend ready for reconnaissance.
 
 `TypeScript` `Computer Vision` · [Live demo](https://cargovision-test.vercel.app)
 
-### [KDS](https://github.com/aththariq/kds-fe) · Full-stack application
+### [KDS](https://github.com/aththariq/kds-fe) · Full-stack system
 
 A web application built across separate frontend and backend repositories.
 
 `TypeScript` · [Frontend](https://github.com/aththariq/kds-fe) · [Backend](https://github.com/aththariq/kds-be) · [Live demo](https://kds-fe.vercel.app)
 
-### [Magic Cube Replay](https://github.com/aththariq/magic-cube-replay-frontend) · Interactive web app
+### [Magic Cube Replay](https://github.com/aththariq/magic-cube-replay-frontend) · Interactive simulation
 
 A paired frontend and backend project exploring interactive replay experiences.
 
 `TypeScript` · [Frontend](https://github.com/aththariq/magic-cube-replay-frontend) · [Backend](https://github.com/aththariq/magic-cube-replay-backend)
 
-### [Startus](https://github.com/aththariq/startus-fe) · Web product
+### [Startus](https://github.com/aththariq/startus-fe) · Web interface
 
 A TypeScript frontend project with a deployed preview.
 
 `TypeScript` · [Source](https://github.com/aththariq/startus-fe) · [Live demo](https://startus-fe-jcsi.vercel.app)
 
-> Want to see more? Browse [all my repositories](https://github.com/aththariq?tab=repositories).
+> **More missions in the archive:** browse [all public repositories](https://github.com/aththariq?tab=repositories).
 
-## `03 / My toolkit`
+## `03 / HARDWARE & SOFTWARE // LOADOUT`
 
 **Languages**<br />
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
@@ -91,14 +98,14 @@ A TypeScript frontend project with a deployed preview.
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 <details>
-<summary><strong>More tools I’ve explored</strong></summary>
+<summary><strong>Expand auxiliary modules</strong></summary>
 <br />
 
 Appwrite · Arduino · Blender · Chart.js · Dart · Figma · Firebase · Git · Heroku · Kotlin · MySQL · Nginx · Pandas · Photoshop · Postman · React Native · Redux · Seaborn · Adobe Illustrator · Adobe XD
 
 </details>
 
-## `04 / GitHub telemetry`
+## `04 / LIVE TELEMETRY // GITHUB`
 
 <div align="center">
 
@@ -111,9 +118,9 @@ Appwrite · Arduino · Blender · Chart.js · Dart · Figma · Firebase · Git �
 
 </div>
 
-## `05 / Beyond the terminal`
+## `05 / OFFLINE MODE // HUMAN CONNECTIONS`
 
-When I’m not building, I write about what I’m learning and work on **[ThatTechBro](https://instagram.com/thattechbro)**.
+Even a cyborg needs a life beyond the terminal. I write about what I’m learning and work on **[ThatTechBro](https://instagram.com/thattechbro)**.
 
 - ✍️ [Read my writing on Medium](https://medium.com/@aththariq.lisan)
 - 💼 [Connect on LinkedIn](https://linkedin.com/in/aththariqlisan)
@@ -121,8 +128,8 @@ When I’m not building, I write about what I’m learning and work on **[ThatTe
 
 <div align="center">
 
-<sub>Curious by default. Building with intent. Always learning.</sub>
+<sub>Human curiosity. Machine precision. Still running on coffee and questions.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:172554,100:111827&height=90&section=footer" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,55:111827,100:050816&height=100&section=footer" alt="" />
 
 </div>
